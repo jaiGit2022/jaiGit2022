@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaiGit2022
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning advance python
 - 💞️ I’m looking to collaborate on some python libraries
 - 📫 You can reach me via gmail id : jkishan421@gmail.com
 
