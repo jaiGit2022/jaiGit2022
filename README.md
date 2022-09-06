@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jkishan421
+- 👋 Hi, I’m Jai Kishan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning advance python
 - 💞️ I’m looking to collaborate on some python libraries
